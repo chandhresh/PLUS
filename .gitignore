@@ -11,3 +11,4 @@ finbert_trained/
 
 # Logs & temp
 *.log
+*.env
