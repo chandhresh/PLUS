@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# Trained models (VERY LARGE)
+finbert_trained/
+
+# Logs & temp
+*.log

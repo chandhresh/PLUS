@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch==2.7.1+cu118
+torchvision
+torchaudio
+transformers
+safetensors
+pydantic
+numpy<2
